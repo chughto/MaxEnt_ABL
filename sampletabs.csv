@@ -1,0 +1,6 @@
+Input,Output,Prob,C1,C2
+XweightX,XweightX,XweightX,0,0
+I1,A,0.5,0,-1
+I1,B,0.5,-1,0
+I2,C,0.5,-1,0
+I2,D,0.5,0,-2
